@@ -1,4 +1,5 @@
 **/node_modules
+**/complete.csv
 **/.env
 **/.DS_Store
 **/.next/
