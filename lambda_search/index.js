@@ -14,7 +14,7 @@ try {
   console.log('search term is ', searchTerm);
   // Example search query
 
-  var host_aiven = "https://avnadmin:AVNS_g44lLLOFS74_6UAdrYg@os-13aedc17-arunamballa24-f41a.l.aivencloud.com:10167";
+  var host_aiven = "";
    var client = new Client({
       node: host_aiven
   });
